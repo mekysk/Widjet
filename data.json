@@ -2,15 +2,23 @@
   "width": "100%",
   "height": "600",
   "symbolsGroups": [
-    {
-      "name": "Stocks",
-      "symbols": [
         {
-          "name": "NYSE:SQ",
-          "displayName": "SQ - Square"
-        }
-      ]
-    }
+            "name": "Stocks",
+            "symbols": [
+              {
+                "name": "BINANCE:BTCUSD",
+                "displayName": "BTC - Bitcoin"
+              },
+              {
+                "name": "EIGHTCAP:XAUUSD",
+                "displayName": "XAU - XAUUSD"
+              },
+              {
+                "name": "EIGHTCAP:SPX500",
+                "displayName": "SPX500 - SPX500"
+              }
+            ]
+          },
   ],
   "showSymbolLogo": true,
   "colorTheme": "dark",
